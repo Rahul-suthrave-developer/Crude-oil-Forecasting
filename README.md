@@ -1,4 +1,8 @@
 📊 Crude Oil Import & Export Forecasting for India
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1NkqUQ5xvISRto4FjTC2Y92_7ZOU-e_TK/view?usp=sharing))
+
+This project forecasts India's crude oil imports and exports using statistical and deep learning models such as ARIMA, GARCH, LSTM, and CNN-LSTM.
 📌 Project Overview
 
 This project focuses on forecasting India's crude oil imports and exports using time series analysis and deep learning models.
